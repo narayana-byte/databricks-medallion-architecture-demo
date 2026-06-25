@@ -1,4 +1,4 @@
-# databricks-medallion-architecture-demo
+# Databricks-medallion-architecture-demo
 
 
 ## Overview
