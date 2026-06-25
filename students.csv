@@ -1,0 +1,12 @@
+student_id,name,course,score,attendance
+1,John,Math,80,90
+2,Alice,Science,75,85
+3,Bob,Math,90,95
+4,David,English,70,80
+5,Emma,Science,88,92
+6,Frank,Math,65,75
+7,Grace,English,95,98
+8,Henry,Science,,89
+9,Isabella,Math,78,91
+10,Jack,English,82,87
+11,John,Math,80,90
